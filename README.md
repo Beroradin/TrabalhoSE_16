@@ -132,3 +132,8 @@ TC_W4_ENABLE_NOTIFICATIONS_COMPLETE: Envia um comando para o servidor para come�
 TC_W4_READY: Estado final, onde o cliente está pronto e apenas aguarda para processar os dados recebidos.
 
 Recepção e Exibição: No estado READY, qualquer notificação recebida aciona o packet_handler, que extrai o valor da temperatura do pacote e o imprime no console serial. O LED on-board pisca rapidamente para indicar que está conectado.
+
+## ▶️ Vídeo no youtube mostrando o funcionamento do programa na placa Raspberry Pi Pico
+<p align="center">
+    <a href="https://youtu.be/iMRuBZcHfCY">Clique aqui para acessar o vídeo</a>
+</p>
